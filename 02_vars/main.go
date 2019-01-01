@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-	/*
+	/* MAIN TYPES
 	string
 	bool
 	int int8 int16 int32 int64
@@ -13,7 +13,7 @@ import "fmt"
 	complex64 complex128
 	*/
 	
-	// variables must be used
+	// variables must be  used, unless it will not compile
 
 func main(){
 	var i int = 8
