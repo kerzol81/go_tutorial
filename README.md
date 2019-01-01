@@ -1,1 +1,1 @@
-# Go Tutorial and testting repository 
+# Go Tutorial and testing repo 
